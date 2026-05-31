@@ -5,8 +5,8 @@
 AI-powered skin lesion triage assistant for primary care clinics in resource-limited settings.
 
 [![Watch the Demo](https://img.shields.io/badge/Watch-Demo-red?style=for-the-badge&logo=youtube)](https://youtu.be/DCFckyiwhow?is=-JokTHGGdpHVJQMU)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=streamlit)](https://skin-lesion-triage-aiexpo-5hkqew6y368d99rzmukbjg.streamlit.app/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-
 ---
 
 ## 📋 Overview
