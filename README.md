@@ -35,7 +35,17 @@ The video includes:
 - Impact and future work
 
 ---
+## 🌐 Live Demo
 
+Try the permanent, 24/7 web version:
+
+**[🚀 Launch SkinGuard AI](https://skin-lesion-triage-aiexpo-5hkqew6y368d99rzmukbjg.streamlit.app/)**
+
+*No installation required — works in any browser!*
+
+> ⚠️ **Note:** First load may take 30-60 seconds as the app initializes.
+
+---
 ## 🚀 Quick Start
 
 ### Prerequisites
